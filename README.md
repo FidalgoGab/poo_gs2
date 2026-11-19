@@ -113,16 +113,12 @@ A IA (assistente de código) foi usada em várias partes do projeto, em iteraç�
 - Execução do menu com entrada roteirizada: sensor desligado ("FORA DE OPERAÇÃO" e "Fonte indisponível"), leitura defeituosa ("Leitura descartada") e alerta repetido não gravado de novo.
 - Ajustes manuais pela equipe depois da geração.
 
-**[PREENCHER pela equipe]** (confirmar os detalhes reais):
-
-- Ferramenta/modelo de IA usado: **\_\_**
-- Quem revisou cada parte e em que data: **\_\_**
-- Trechos que a equipe reescreveu à mão: **\_\_**
+- Ferramenta/modelo de IA usado: Kiro
 
 ## Divisão de tarefas
 
-| Integrante      | Responsabilidade sugerida               |
-| --------------- | --------------------------------------- |
-| Gabriel Fidalgo | Domínio + exceções                      |
-| Gustavo Maia    | Persistência (entidades e repositórios) |
-| Gustavo Rossi   | Previsões + alertas +                   |
+| Integrante      | RM     | Responsabilidade sugerida               |
+| --------------- | ------ | --------------------------------------- |
+| Gabriel Fidalgo | 563213 | Domínio + exceções                      |
+| Gustavo Maia    | 562240 | Persistência (entidades e repositórios) |
+| Gustavo Rossi   | 566075 | Previsões + alertas +                   |
